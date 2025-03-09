@@ -1,3 +1,4 @@
+--copy all of this
 --# Fly-Script-for-roblox
 --this will make you fly!
 -- Simple Fly Script.
