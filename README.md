@@ -1,6 +1,3 @@
---copy all of this
---# Fly-Script-for-roblox
---this will make you fly!
 -- Simple Fly Script.
 local player = game.Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()
